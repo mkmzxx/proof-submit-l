@@ -48,7 +48,7 @@ format `[
 ]`
 / 
     ```sh
-    wallets.json
+    nano wallets.json
     ```
 4. Run the script:
     ```sh
