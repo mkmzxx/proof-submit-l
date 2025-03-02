@@ -11,7 +11,7 @@
 - **Auto Referrall**
 - **Support Proxy usage**
 - **Auto Claim Points every hour**
-**Auto proof submite and auto task**
+- **Auto proof submite and auto task**
 
 ## Prerequisites
 
